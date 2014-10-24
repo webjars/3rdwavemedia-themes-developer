@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>3rdwavemedia-themes-developer</artifactId>
-    <version>1.21</version>
+    <version>1.22-SNAPSHOT</version>
     <name>Template for Developers</name>
     <description>WebJar for Template for Developers</description>
     <url>http://webjars.org</url>
@@ -48,7 +48,7 @@
         <url>http://github.com/webjars/3rdwavemedia-themes-developer</url>
         <connection>scm:git:https://github.com/webjars/3rdwavemedia-themes-developer.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/3rdwavemedia-themes-developer.git</developerConnection>
-        <tag>3rdwavemedia-themes-developer-1.21</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
